@@ -1,0 +1,33 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading-h1 , .heading-h2 {
+    text-decoration: underline;
+}
+
+.section-1 {
+    border: 1px solid black;
+    padding: 10px;
+    padding-top: 0px;;
+}
+
+.link {
+    color: black;
+}
+
+.img {
+    width: 500px;
+}
+
+h1 {
+    font-size: 32PX;
+}
+
+h2 {
+    font-size: 30PX;
+}
+
+p , a , li {
+    font-size: 20px;
+}
